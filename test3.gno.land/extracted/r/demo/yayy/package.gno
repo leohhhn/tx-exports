@@ -1,5 +1,5 @@
-package hello
+package yayy
 
 func Render(path string) string {
-	return "Hello World!"
+  return "Hello World!"
 }
