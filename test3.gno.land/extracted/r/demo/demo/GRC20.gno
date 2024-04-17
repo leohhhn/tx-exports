@@ -98,6 +98,4 @@ func assertIsAdmin(address std.Address) {
 	if address != admin {
 		panic("restricted access")
 	}
-}access")
-	}
 }
