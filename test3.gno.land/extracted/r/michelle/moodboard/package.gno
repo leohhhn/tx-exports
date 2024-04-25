@@ -1,4 +1,4 @@
-package mood
+package moodboard
 
 var mymood = ""
 
