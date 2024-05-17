@@ -2,7 +2,7 @@
 
 ## TXs
 ```
-6732
+6750
 ```
 
 ## addpkgs
@@ -397,6 +397,7 @@
       1 "gno.land/r/test10/hello"
       1 "gno.land/r/test1/test"
       1 "gno.land/r/test1/poll1"
+      1 "gno.land/r/test1/mymoodrealm"
       1 "gno.land/r/test1/greeting"
       1 "gno.land/r/test/tictactoe"
       1 "gno.land/r/test/test123"
@@ -1078,6 +1079,7 @@
       1 "gno.land/r/alextest/alextest"
       1 "gno.land/r/alexis/helloo"
       1 "gno.land/r/alexis/hello"
+      1 "gno.land/r/alexis/counter"
       1 "gno.land/r/alanrsoares/svgen4"
       1 "gno.land/r/alanrsoares/svgen3"
       1 "gno.land/r/alanrsoares/hello"
@@ -1466,10 +1468,12 @@
       2 "gno.land/r/xyz/greeting"
       2 "gno.land/r/x1unix/sf/v4"
       2 "gno.land/r/x1unix/sf/v1"
+      2 "gno.land/r/x1unix/schematest_6"
       2 "gno.land/r/vadymspace/hello"
       2 "gno.land/r/test7/poll_v1"
       2 "gno.land/r/test2/tictacgno"
       2 "gno.land/r/test1/poll1"
+      2 "gno.land/r/test1/mymoodrealm"
       2 "gno.land/r/test1/greeting"
       2 "gno.land/r/stuyk/userinvokes4"
       2 "gno.land/r/sdm/feedback/v5"
@@ -1493,9 +1497,10 @@
       2 "gno.land/r/demo/kazai"
       2 "gno.land/r/demo/hello"
       2 "gno.land/r/demo/gemcoin"
+      2 "gno.land/r/alexis/counter"
+      2 "gno.land/r/alanrsoares/svgen3"
       2 "g14qvahvnnllzwl9ehn3mkph248uapsehwgfe4pt"
       1 "gno.land/r/x1unix/sf/v2"
-      1 "gno.land/r/x1unix/schematest_6"
       1 "gno.land/r/x1unix/feedback/v9"
       1 "gno.land/r/x1unix/feedback/v5"
       1 "gno.land/r/test99/hello"
@@ -1546,7 +1551,6 @@
       1 "gno.land/r/demo/ajan_test1"
       1 "gno.land/r/demo"
       1 "gno.land/r/alexis/hello"
-      1 "gno.land/r/alanrsoares/svgen3"
       1 "gno.land/r/alanrsoares/svgen2"
       1 "gno.land/r/alanrsoares/svgen"
       1 "gno.land/r/alanrsoares/hello"
